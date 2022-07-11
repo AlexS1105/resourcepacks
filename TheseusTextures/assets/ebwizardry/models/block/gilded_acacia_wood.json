@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "ebwizardry:blocks/gilded_birch_wood_top",
+        "top": "ebwizardry:blocks/gilded_birch_wood_top",
+        "side": "ebwizardry:blocks/gilded_acacia_wood"
+    }
+}
